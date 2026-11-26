@@ -16,6 +16,13 @@ changes in viewing angle, and the strain is calculated from homographies between
 module centers. The method measures both normal and shear strains and needs no wiring or
 power source.
 
+<img src="images/homography_quad.png" alt="Quadrilateral of module centers in the reference and deformed QR code, related by a homography" width="75%">
+
+Four module centers, one from each quadrant of the code, form a quadrilateral in the
+reference image (left). The same four centers in the deformed image (right) are related to
+it by a homography, from which the strain is calculated. This is repeated for 2000 randomly
+selected quadrilaterals, and the strains are averaged.
+
 <img src="images/cantilever_setup.jpg" alt="Cantilever beam test set-up" width="70%">
 
 In a cantilever beam test, the strains from the QR code differed from beam theory by
