@@ -36,7 +36,7 @@ In a cantilever beam test, the strains from the QR code differed from beam theor
 <img src="images/cantilever_validation.png" alt="Strain from the QR code, a strain gauge and beam theory against tip force" width="65%">
 
 ## Contents
-- [Surya_Vel_Research_Paper.pdf](Surya_Vel_Research_Paper.pdf): The research paper
+- [Research paper](Surya_Vel_Research_Paper.pdf): The full description of the method, the coupon tests, the cantilever beam test and the mobile application
 - [Project Code](Project%20Code/): Python code for strain measurement, the QR code generator, and the prototype mobile application (Flutter frontend and Python backend)
 
 ## Status
