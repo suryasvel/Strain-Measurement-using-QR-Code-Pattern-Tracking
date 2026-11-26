@@ -16,12 +16,12 @@ changes in viewing angle, and the strain is calculated from homographies between
 module centers. The method measures both normal and shear strains and needs no wiring or
 power source.
 
-![Cantilever beam test set-up](images/cantilever_setup.jpg)
+<img src="images/cantilever_setup.jpg" alt="Cantilever beam test set-up" width="70%">
 
 In a cantilever beam test, the strains from the QR code differed from beam theory by
 61 microstrain on average, compared with 16 microstrain for a strain gauge.
 
-![Strain from the QR code, a strain gauge and beam theory against tip force](images/cantilever_validation.png)
+<img src="images/cantilever_validation.png" alt="Strain from the QR code, a strain gauge and beam theory against tip force" width="65%">
 
 ## Contents
 - `Surya_Vel_Research_Paper.pdf`: the research paper
