@@ -37,4 +37,5 @@ In a cantilever beam test, the strains from the QR code differed from beam theor
 The code in this repository is being updated to the version described in the paper.
 
 ## License
-This project is released under the MIT License. See `LICENSE` for details.
+This project is released under the MIT License. See [LICENSE](LICENSE) for details.
+
