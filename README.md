@@ -5,6 +5,7 @@ John Bapst Memorial High School, Bangor, Maine
 
 This repository contains the code and research paper for this project.
 
+<img src="images/bridge_qr.jpg" alt="QR code on a steel bridge connection" width="600">
 ![QR code on a steel bridge connection](images/bridge_qr.jpg)
 
 ## Overview
