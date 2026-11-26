@@ -8,13 +8,7 @@ This repository contains the code and research paper for this project.
 <img src="images/bridge_qr.jpg" alt="QR code on a steel bridge connection" width="60%">
 
 ## Overview
-This project measures strain in structural members from smartphone photos of a QR code
-laser-engraved on the surface. A reference image of the code is taken first, and each later
-image is compared with it. The data modules of the code are detected using a threshold that
-reduces the effect of shadows and reflections, a correction for camera tilt accounts for
-changes in viewing angle, and the strain is calculated from homographies between groups of
-module centers. The method measures both normal and shear strains and needs no wiring or
-power source.
+Aging bridges and buildings are a growing safety problem, and structures are still checked mainly by visual inspection, which cannot measure strain. Strain gauges and Digital Image Correlation systems can measure strain, but they are difficult to use on every structural member. This project presents a fast, low-cost way to measure strain from smartphone images of a QR code laser-engraved onto a structural member. A reference image of the code is taken first, and each later image is compared with it. The data modules of the code are detected using a threshold that reduces the effect of shadows and reflections, a correction for camera tilt accounts for a change in viewing angle, and the strain is calculated from homographies between groups of module centers. The method measures both normal and shear strains without wiring or a power source. It achieves sub-pixel accuracy, with an average error of about 3 micrometers in length change across the 48 mm code.
 
 <img src="images/homography_quad.png" alt="Quadrilateral of module centers in the reference and deformed QR code, related by a homography" width="75%">
 
