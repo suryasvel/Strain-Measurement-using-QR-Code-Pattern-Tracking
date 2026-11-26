@@ -5,7 +5,7 @@ John Bapst Memorial High School, Bangor, Maine
 
 This repository contains the code and research paper for this project.
 
-<img src="images/bridge_qr.png" alt="QR code on a steel bridge connection" width="60%">
+<img src="images/bridge_qr.jpg" alt="QR code on a steel bridge connection" width="60%">
 
 ## Overview
 This project measures strain in structural members from smartphone photos of a QR code
@@ -23,7 +23,7 @@ reference image (left). The same four centers in the deformed image (right) are 
 it by a homography, from which the strain is calculated. This is repeated for 2000 randomly
 selected quadrilaterals, and the strains are averaged.
 
-<img src="images/engraved_coupons.jpg" alt="Reference and sheared QR codes laser-engraved on aluminum coupons" width="75%">
+<img src="images/engraved_coupons.png" alt="Reference and sheared QR codes laser-engraved on aluminum coupons" width="75%">
 
 The method was tested on aluminum coupons laser-engraved with QR codes carrying known
 normal and shear strains of up to 100 000 microstrain.
